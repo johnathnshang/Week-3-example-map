@@ -1,4 +1,3 @@
-import { withRouter } from "next/router";
 export default function Card ({
     firstName="none",
     gpa="none",
